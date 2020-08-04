@@ -1,1 +1,3 @@
-# python-design-patterns-course
+# Python Design Patterns Course
+
+Coming to Talk Python Training soon. :)
